@@ -1,11 +1,5 @@
 /*-----------------------------------------------------------------------------------
-    Template Name: It's Me - HTML Template
-    Template URI: https://webtend.net/demo/html/itsme/
-    Author: WebTend
-    Author URI:  https://webtend.net/
-    Version: 1.0
 
-    Note: This is Main JS File.
 -----------------------------------------------------------------------------------
 	CSS INDEX
 	===================
